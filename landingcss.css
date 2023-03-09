@@ -1,0 +1,28 @@
+body {
+  background-color: #292725;
+  margin: 20px;
+  padding: 20px;
+}
+
+#head {
+  font-family: Garamond, serif;
+  color: #E98333;
+  font-size: 2em;
+  margin-bottom: 2px;
+  margin-top: 4px;
+}
+
+#phead {
+  font-family: Palatino, serif;
+  font-size: 1.7em;
+  color: white;
+}
+
+h3 {
+  color: #E98333;
+  font-size: 1.2em;
+}
+
+a:link {color:#E98333;}
+a:hover {color: white;}
+a:visited {color:blue;}
